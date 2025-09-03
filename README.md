@@ -24,7 +24,7 @@ The repository includes an interactive web application built with Streamlit that
 
 ## Dataset Details
 
-This model was trained on the **Histopathologic Cancer Detection** dataset from Kaggle.
+This model was trained on the **[Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection/data)** dataset from Kaggle.
 - **Total Images:** 220,025
 - **Image Size:** 96x96 pixels
 - **Color Space:** RGB
