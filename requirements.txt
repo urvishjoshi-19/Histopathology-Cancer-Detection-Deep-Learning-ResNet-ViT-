@@ -1,0 +1,12 @@
+torch
+torchvision
+pandas
+scikit-learn
+matplotlib
+tqdm
+einops
+torchsummary
+torch-lr-finder
+Pillow
+numpy
+streamlit
