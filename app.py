@@ -53,7 +53,7 @@ st.markdown("""
     animation: glow 2.5s infinite; /* Apply the glow animation */
 }
 .link-container a {
-    color: #ffffff !important; /* White link text, !important to override default */
+    color: #1E90FF !important; /* Bright Blue */
     text-decoration: underline;
 }
 .details-container {
