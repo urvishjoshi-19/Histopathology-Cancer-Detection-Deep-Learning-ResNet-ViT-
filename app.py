@@ -122,8 +122,8 @@ st.markdown(
     """
     <div class="link-container">
         <strong>GitHub Link to the Project:</strong> 
-        <a href="https://github.com/prks61/Histopathologic-Cancer-Detection-using-VIT" target="_blank">
-            https://github.com/prks61/Histopathologic-Cancer-Detection-using-VIT
+        <a href="https://github.com/urvishjoshi-19/Histopathology-Cancer-Detection-Deep-Learning-ResNet-ViT-" target="_blank">
+            https://github.com/urvishjoshi-19/Histopathology-Cancer-Detection-Deep-Learning-ResNet-ViT-
         </a>
     </div>
     """,
